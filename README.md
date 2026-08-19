@@ -24,4 +24,4 @@ An interactive, web-based classic **Simon Says** memory game designed with moder
 
 1. **Clone the repository:**
    ```bash
-   git clone [(https://github.com/Rajesh07-art/Simon-Says-Game.git)](https://github.com/Rajesh07-art/Simon-Says-Game.git)
+   git clone [https://github.com/Rajesh07-art/Simon-Says-Game.git]
